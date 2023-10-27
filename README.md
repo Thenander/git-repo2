@@ -1,4 +1,4 @@
 # git-repo2
 
-master fix
-feature fix
+* master fix
+* feature fix
